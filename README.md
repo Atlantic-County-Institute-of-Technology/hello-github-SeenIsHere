@@ -1,4 +1,4 @@
-# :wave: The Basics of GitHub 
+# :wave: Sean Baka
 
 ## 🤓 Course overview and learning outcomes 
 
